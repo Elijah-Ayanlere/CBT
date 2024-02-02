@@ -7,7 +7,7 @@ This Python script conducts a multiple-choice test for students, including both 
 1. **Run the Script:**
    - Execute the script using a Python interpreter:
      ```bash
-     python student_test_system.py
+     python CBTTest.py
      ```
 
 2. **Provide Student Information:**
